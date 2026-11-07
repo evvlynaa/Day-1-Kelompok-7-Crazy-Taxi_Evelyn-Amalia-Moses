@@ -4,13 +4,13 @@ Evelyn Amalia Moses
 NIM : 2607431049 
 TMD 1C
 PRODI : Teknik Multimedia dan Digital
-1. Pengenalan Akademik.
+##1. Pengenalan Akademik.
 
 Pengenalan akademik merupakan kegiatan awal untuk membantu mahasiswa memahami lingkungan dan sistem perkuliahan. Melalui kegiatan ini, mahasiswa mendapatkan gambaran mengenai lingkungan kampus, tata tertib, kurikulum, serta sistem pembelajaran yang akan dijalani. Tujuannya adalah membantu mahasiswa beradaptasi dengan kegiatan perkuliahan, memahami sistem akademik, dan mempersiapkan diri untuk menghadapi dunia kerja di masa depan.
 Terdapat pengenalan jurusan TIK dengan visi "Menjadi jurusan internasional untuk mendukung daya saing bangsa dalam bidang TIK" dan memiliki misi diantaranya pendidikan vokasi, mengutamakan riset dan inovasi, dan tata kelola digital yang efisien, efektif, akuntabel berbasis TIK
 [Materi TIK mengajar_2026.pptx](https://github.com/user-attachments/files/34519905/Materi.TIK.mengajar_2026.pptx)
 
-2. Program MBKM dan MSIB
+##2. Program MBKM dan MSIB
 
 Merdeka Belajar Kampus Merdeka (MBKM) merupakan program yang memberikan kesempatan kepada mahasiswa untuk mengembangkan kemampuan melalui kegiatan pembelajaran di luar program studi maupun di luar kampus.
 Salah satu program yang termasuk dalam MBKM adalah MSIB (Magang dan Studi Independen Bersertifikat), yang terdiri dari:
@@ -26,7 +26,7 @@ Kegiatan tersebut dapat memberikan pengalaman baru, meningkatkan keterampilan, s
    - Case-Based Learning (CBL) : Metode pembelajaran menggunakan kasus nyata dari industri atau masyarakat. Tahapannya meliputi mempelajari kasus, mengidentifikasi masalah, menganalisis dan berdiskusi, merumuskan solusi, lalu melakukan presentasi dan refleksi.
 [TIK Mengajar.pptx](https://github.com/user-attachments/files/34520178/TIK.Mengajar.pptx)
 
-3. Pengenalan Program Studi dan Kurikulum TMD
+##3. Pengenalan Program Studi dan Kurikulum TMD
 
 Program Studi D4 Teknik Multimedia dan Digital (TMD) merupakan program studi yang berfokus pada bidang multimedia digital, seperti pengolahan audio, gambar, video, animasi, game, dan multimedia interaktif.
 Kurikulum yang diterapkan dirancang untuk membekali mahasiswa dengan pengetahuan dan keterampilan praktis sesuai perkembangan teknologi.
@@ -40,7 +40,7 @@ Beberapa profesi yang dapat ditekuni antara lain Digital Content Creator, Multim
 Peluang tersebut menunjukkan bahwa kemampuan di bidang multimedia digital dapat diterapkan dalam berbagai bidang pekerjaan yang terus berkembang. Pada ssesi ini saya menjadi lebih memahami alur ataupun bidang yang akan ditekuni pada prodi yang saya ambil.
 [TMD.pdf](https://github.com/user-attachments/files/34520181/TMD.pdf)
 
-4. Implementasi Git, GitHub, dan Workshop Praktis
+##4. Implementasi Git, GitHub, dan Workshop Praktis
 
 Pengenalan Git dan GitHub. Git merupakan sistem pengelolaan versi (Version Control System) yang digunakan untuk mencatat dan mengelola perubahan pada file atau proyek. Dengan Git, pengguna dapat melihat riwayat perubahan yang telah dilakukan. GitHub adalah platform berbasis web yang digunakan untuk menyimpan repository Git secara online serta memudahkan pengguna dalam mengelola dan mengembangkan proyek bersama.
 
@@ -68,7 +68,7 @@ Pengenalan Git dan GitHub. Git merupakan sistem pengelolaan versi (Version Contr
 [Git & Github.pdf](https://github.com/user-attachments/files/34520189/Git.Github.pdf)
 
 
-Rangkuman Pembelajaran dan Refleksi Personal
+##Rangkuman Pembelajaran dan Refleksi Personal
 Poin Penting yang Dipelajari
 - Memahami sistem akademik, kurikulum, dan peluang kerja di bidang Teknik Multimedia dan Digital.
 - Mengetahui manfaat program MBKM dan MSIB dalam menambah pengalaman serta keterampilan mahasiswa.
