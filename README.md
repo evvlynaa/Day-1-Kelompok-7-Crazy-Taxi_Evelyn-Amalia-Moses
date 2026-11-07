@@ -30,30 +30,29 @@ Beberapa profesi yang dapat ditekuni antara lain Digital Content Creator, Multim
 Peluang tersebut menunjukkan bahwa kemampuan di bidang multimedia digital dapat diterapkan dalam berbagai bidang pekerjaan yang terus berkembang. Pada ssesi ini saya menjadi lebih memahami alur ataupun bidang yang akan ditekuni pada prodi yang saya ambil.
 
 4. Implementasi Git, GitHub, dan Workshop Praktis
-Pengenalan Git dan GitHub
-Git merupakan sistem pengelolaan versi (Version Control System) yang digunakan untuk mencatat dan mengelola perubahan pada file atau proyek. Dengan Git, pengguna dapat melihat riwayat perubahan yang telah dilakukan. GitHub adalah platform berbasis web yang digunakan untuk menyimpan repository Git secara online serta memudahkan pengguna dalam mengelola dan mengembangkan proyek bersama.
+Pengenalan Git dan GitHub. Git merupakan sistem pengelolaan versi (Version Control System) yang digunakan untuk mencatat dan mengelola perubahan pada file atau proyek. Dengan Git, pengguna dapat melihat riwayat perubahan yang telah dilakukan. GitHub adalah platform berbasis web yang digunakan untuk menyimpan repository Git secara online serta memudahkan pengguna dalam mengelola dan mengembangkan proyek bersama.
 
-Prompt Engineering merupakan cara menyusun instruksi yang diberikan kepada AI agar menghasilkan jawaban sesuai kebutuhan.
-Struktur prompt yang baik terdiri dari empat bagian, yaitu Role (peran AI), Task (tugas yang diberikan), Context (informasi pendukung), dan Format (bentuk hasil yang diinginkan). Penggunaan prompt yang jelas dan spesifik dapat membantu AI memberikan hasil yang lebih relevan dan sesuai dengan tujuan pengguna.
-
-Perintah Dasar dan Istilah Penting Git
-Dalam penggunaan Git, terdapat beberapa perintah dasar untuk mengelola perubahan pada proyek. Perintah git init digunakan untuk membuat repository Git baru, sedangkan git add . berfungsi untuk memasukkan perubahan file ke dalam staging area sebelum disimpan.
-Selanjutnya, git commit -m digunakan untuk menyimpan perubahan ke dalam riwayat Git dengan memberikan pesan sebagai keterangan. Perintah git push digunakan untuk mengirim perubahan dari komputer ke repository GitHub, sedangkan git pull digunakan untuk mengambil dan memperbarui perubahan dari repository online ke komputer lokal. Selain itu, git clone digunakan untuk menyalin repository dari GitHub ke komputer.
-Terdapat juga beberapa istilah penting dalam Git dan GitHub, yaitu:
-  - Staging Area: Tempat untuk menyiapkan perubahan file sebelum dilakukan commit.
-  - Commit: Catatan perubahan yang disimpan dalam riwayat proyek.
-  - Branch: Cabang pengembangan yang memungkinkan pengguna mengerjakan perubahan secara terpisah.
-  - Pull Request (PR): Permintaan untuk menggabungkan perubahan dari satu branch ke branch lainnya.
-
-Praktik Workshop: Student Task Planner
-Pada sesi praktik, peserta diperkenalkan dengan pembuatan aplikasi sederhana bernama Student Task Planner menggunakan bantuan platform AI.
-Tahapan praktik yang dilakukan meliputi:
-1.	Memilih platform AI untuk membantu proses pembuatan aplikasi.
-2.	Menyusun prompt untuk menghasilkan struktur dan kode awal aplikasi.
-3.	Menginisialisasi proyek menggunakan Git.
-4.	Melakukan staging, commit, dan push ke GitHub.
-5.	Melakukan perubahan pada proyek, kemudian menyimpan dan mengirim pembaruan ke GitHub.
-Melalui praktik ini, saya ataupun peserta dapat memahami penggunaan AI, Git, dan GitHub dalam proses pengembangan proyek sederhana.
+   Prompt Engineering merupakan cara menyusun instruksi yang diberikan kepada AI agar menghasilkan jawaban sesuai kebutuhan.
+   Struktur prompt yang baik terdiri dari empat bagian, yaitu Role (peran AI), Task (tugas yang diberikan), Context (informasi pendukung), dan Format (bentuk hasil yang diinginkan). Penggunaan prompt yang jelas dan spesifik dapat membantu AI memberikan hasil yang lebih relevan dan sesuai dengan tujuan pengguna.
+   
+   Perintah Dasar dan Istilah Penting Git
+   Dalam penggunaan Git, terdapat beberapa perintah dasar untuk mengelola perubahan pada proyek. Perintah git init digunakan untuk membuat repository Git baru, sedangkan git add . berfungsi untuk memasukkan perubahan file ke dalam staging area sebelum disimpan.
+   Selanjutnya, git commit -m digunakan untuk menyimpan perubahan ke dalam riwayat Git dengan memberikan pesan sebagai keterangan. Perintah git push digunakan untuk mengirim perubahan dari komputer ke repository GitHub, sedangkan git pull digunakan untuk mengambil dan memperbarui perubahan dari repository online ke komputer lokal. Selain itu, git clone digunakan untuk menyalin repository dari GitHub ke komputer.
+   Terdapat juga beberapa istilah penting dalam Git dan GitHub, yaitu:
+     - Staging Area: Tempat untuk menyiapkan perubahan file sebelum dilakukan commit.
+     - Commit: Catatan perubahan yang disimpan dalam riwayat proyek.
+     - Branch: Cabang pengembangan yang memungkinkan pengguna mengerjakan perubahan secara terpisah.
+     - Pull Request (PR): Permintaan untuk menggabungkan perubahan dari satu branch ke branch lainnya.
+   
+   Praktik Workshop: Student Task Planner
+   Pada sesi praktik, peserta diperkenalkan dengan pembuatan aplikasi sederhana bernama Student Task Planner menggunakan bantuan platform AI.
+   Tahapan praktik yang dilakukan meliputi:
+   1.	Memilih platform AI untuk membantu proses pembuatan aplikasi.
+   2.	Menyusun prompt untuk menghasilkan struktur dan kode awal aplikasi.
+   3.	Menginisialisasi proyek menggunakan Git.
+   4.	Melakukan staging, commit, dan push ke GitHub.
+   5.	Melakukan perubahan pada proyek, kemudian menyimpan dan mengirim pembaruan ke GitHub.
+   Melalui praktik ini, saya ataupun peserta dapat memahami penggunaan AI, Git, dan GitHub dalam proses pengembangan proyek sederhana.
 
 Rangkuman Pembelajaran dan Refleksi Personal
 Poin Penting yang Dipelajari
