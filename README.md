@@ -8,6 +8,7 @@ PRODI : Teknik Multimedia dan Digital
 
 Pengenalan akademik merupakan kegiatan awal untuk membantu mahasiswa memahami lingkungan dan sistem perkuliahan. Melalui kegiatan ini, mahasiswa mendapatkan gambaran mengenai lingkungan kampus, tata tertib, kurikulum, serta sistem pembelajaran yang akan dijalani. Tujuannya adalah membantu mahasiswa beradaptasi dengan kegiatan perkuliahan, memahami sistem akademik, dan mempersiapkan diri untuk menghadapi dunia kerja di masa depan.
 Terdapat pengenalan jurusan TIK dengan visi "Menjadi jurusan internasional untuk mendukung daya saing bangsa dalam bidang TIK" dan memiliki misi diantaranya pendidikan vokasi, mengutamakan riset dan inovasi, dan tata kelola digital yang efisien, efektif, akuntabel berbasis TIK
+[Materi TIK mengajar_2026.pptx](https://github.com/user-attachments/files/34519905/Materi.TIK.mengajar_2026.pptx)
 
 2. Program MBKM dan MSIB
 
@@ -23,6 +24,7 @@ Kegiatan tersebut dapat memberikan pengalaman baru, meningkatkan keterampilan, s
    - Project-Based Learning (PjBL) : Metode pembelajaran melalui pengerjaan proyek nyata dalam waktu tertentu, biasanya secara berkelompok. Hasilnya dapat berupa produk, prototipe, aplikasi, atau laporan yang dipresentasikan.
    - Problem-Based Learning (PBL) : Metode pembelajaran yang dimulai dari permasalahan nyata tanpa satu jawaban pasti. Mahasiswa menganalisis masalah, mencari informasi, dan merumuskan solusi. Dosen berperan sebagai fasilitator.
    - Case-Based Learning (CBL) : Metode pembelajaran menggunakan kasus nyata dari industri atau masyarakat. Tahapannya meliputi mempelajari kasus, mengidentifikasi masalah, menganalisis dan berdiskusi, merumuskan solusi, lalu melakukan presentasi dan refleksi.
+[TIK Mengajar.pptx](https://github.com/user-attachments/files/34520178/TIK.Mengajar.pptx)
 
 3. Pengenalan Program Studi dan Kurikulum TMD
 
@@ -36,6 +38,7 @@ Sistem Kurikulum dan Pembelajaran
 Prospek Kerja Lulusan D4 Teknik Multimedia dan Digital memiliki berbagai peluang karier di bidang industri kreatif dan teknologi digital.
 Beberapa profesi yang dapat ditekuni antara lain Digital Content Creator, Multimedia Designer, UI Designer, UX Designer, Animator, 3D Modeling Artist, Game Developer, Game Designer, Motion Graphic Designer, Web/App Designer, AR/VR Developer, serta Creative Director.
 Peluang tersebut menunjukkan bahwa kemampuan di bidang multimedia digital dapat diterapkan dalam berbagai bidang pekerjaan yang terus berkembang. Pada ssesi ini saya menjadi lebih memahami alur ataupun bidang yang akan ditekuni pada prodi yang saya ambil.
+[TMD.pdf](https://github.com/user-attachments/files/34520181/TMD.pdf)
 
 4. Implementasi Git, GitHub, dan Workshop Praktis
 
@@ -62,6 +65,8 @@ Pengenalan Git dan GitHub. Git merupakan sistem pengelolaan versi (Version Contr
    4.	Melakukan staging, commit, dan push ke GitHub.
    5.	Melakukan perubahan pada proyek, kemudian menyimpan dan mengirim pembaruan ke GitHub.
    Melalui praktik ini, saya ataupun peserta dapat memahami penggunaan AI, Git, dan GitHub dalam proses pengembangan proyek sederhana.
+[Git & Github.pdf](https://github.com/user-attachments/files/34520189/Git.Github.pdf)
+
 
 Rangkuman Pembelajaran dan Refleksi Personal
 Poin Penting yang Dipelajari
@@ -74,4 +79,5 @@ Poin Penting yang Dipelajari
   
 Pendapat Pribadi tentang Workshop Day 1
 Menurut saya, kegiatan Workshop Day 1 memberikan banyak informasi dan pengetahuan baru, mulai dari pengenalan akademik hingga penggunaan teknologi dalam pengembangan proyek. Materi Git dan GitHub menjadi salah satu pembahasan yang menarik karena memberikan pemahaman mengenai cara menyimpan, mengelola, dan mengembangkan proyek secara online. Kegiatan ini juga menambah wawasan mengenai pemanfaatan AI serta pentingnya mengembangkan keterampilan yang sesuai dengan bidang perkuliahan sekaligus lebih mengenal prospek kerja jurusan. Namun saya mengalami keterbatasan dalam mengakses internet dalam sesi ini sehingga praktik saya menjadi kurang efektif, namun dari segi pemateri sudah sangat mudah dipahami.
+
 
