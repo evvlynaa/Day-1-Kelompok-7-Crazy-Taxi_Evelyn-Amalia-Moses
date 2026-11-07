@@ -4,11 +4,13 @@ Evelyn Amalia Moses
 NIM : 2607431049 
 TMD 1C
 PRODI : Teknik Multimedia dan Digital
-1. Pengenalan Akademik
+1. Pengenalan Akademik.
+
 Pengenalan akademik merupakan kegiatan awal untuk membantu mahasiswa memahami lingkungan dan sistem perkuliahan. Melalui kegiatan ini, mahasiswa mendapatkan gambaran mengenai lingkungan kampus, tata tertib, kurikulum, serta sistem pembelajaran yang akan dijalani. Tujuannya adalah membantu mahasiswa beradaptasi dengan kegiatan perkuliahan, memahami sistem akademik, dan mempersiapkan diri untuk menghadapi dunia kerja di masa depan.
 Terdapat pengenalan jurusan TIK dengan visi "Menjadi jurusan internasional untuk mendukung daya saing bangsa dalam bidang TIK" dan memiliki misi diantaranya pendidikan vokasi, mengutamakan riset dan inovasi, dan tata kelola digital yang efisien, efektif, akuntabel berbasis TIK
 
-3. Program MBKM dan MSIB
+2. Program MBKM dan MSIB
+
 Merdeka Belajar Kampus Merdeka (MBKM) merupakan program yang memberikan kesempatan kepada mahasiswa untuk mengembangkan kemampuan melalui kegiatan pembelajaran di luar program studi maupun di luar kampus.
 Salah satu program yang termasuk dalam MBKM adalah MSIB (Magang dan Studi Independen Bersertifikat), yang terdiri dari:
    - Magang Bersertifikat
@@ -18,11 +20,12 @@ Salah satu program yang termasuk dalam MBKM adalah MSIB (Magang dan Studi Indepe
 MBKM memiliki delapan bentuk kegiatan pembelajaran, yaitu pertukaran pelajar, magang atau praktik kerja, asistensi mengajar, penelitian atau riset, proyek kemanusiaan, kegiatan wirausaha, proyek independen, serta membangun desa atau KKN.
 Kegiatan tersebut dapat memberikan pengalaman baru, meningkatkan keterampilan, serta membantu mahasiswa mempersiapkan diri menghadapi dunia kerja. Konversi SKS dilakukan sesuai dengan ketentuan program studi.
 
-   Project-Based Learning (PjBL) : Metode pembelajaran melalui pengerjaan proyek nyata dalam waktu tertentu, biasanya secara berkelompok. Hasilnya dapat berupa produk, prototipe, aplikasi, atau laporan yang dipresentasikan.
-   Problem-Based Learning (PBL) : Metode pembelajaran yang dimulai dari permasalahan nyata tanpa satu jawaban pasti. Mahasiswa menganalisis masalah, mencari informasi, dan merumuskan solusi. Dosen berperan sebagai fasilitator.
-   Case-Based Learning (CBL) : Metode pembelajaran menggunakan kasus nyata dari industri atau masyarakat. Tahapannya meliputi mempelajari kasus, mengidentifikasi masalah, menganalisis dan berdiskusi, merumuskan solusi, lalu melakukan presentasi dan refleksi.
+   - Project-Based Learning (PjBL) : Metode pembelajaran melalui pengerjaan proyek nyata dalam waktu tertentu, biasanya secara berkelompok. Hasilnya dapat berupa produk, prototipe, aplikasi, atau laporan yang dipresentasikan.
+   - Problem-Based Learning (PBL) : Metode pembelajaran yang dimulai dari permasalahan nyata tanpa satu jawaban pasti. Mahasiswa menganalisis masalah, mencari informasi, dan merumuskan solusi. Dosen berperan sebagai fasilitator.
+   - Case-Based Learning (CBL) : Metode pembelajaran menggunakan kasus nyata dari industri atau masyarakat. Tahapannya meliputi mempelajari kasus, mengidentifikasi masalah, menganalisis dan berdiskusi, merumuskan solusi, lalu melakukan presentasi dan refleksi.
 
-4. Pengenalan Program Studi dan Kurikulum TMD
+3. Pengenalan Program Studi dan Kurikulum TMD
+
 Program Studi D4 Teknik Multimedia dan Digital (TMD) merupakan program studi yang berfokus pada bidang multimedia digital, seperti pengolahan audio, gambar, video, animasi, game, dan multimedia interaktif.
 Kurikulum yang diterapkan dirancang untuk membekali mahasiswa dengan pengetahuan dan keterampilan praktis sesuai perkembangan teknologi.
 Sistem Kurikulum dan Pembelajaran
@@ -35,6 +38,7 @@ Beberapa profesi yang dapat ditekuni antara lain Digital Content Creator, Multim
 Peluang tersebut menunjukkan bahwa kemampuan di bidang multimedia digital dapat diterapkan dalam berbagai bidang pekerjaan yang terus berkembang. Pada ssesi ini saya menjadi lebih memahami alur ataupun bidang yang akan ditekuni pada prodi yang saya ambil.
 
 4. Implementasi Git, GitHub, dan Workshop Praktis
+
 Pengenalan Git dan GitHub. Git merupakan sistem pengelolaan versi (Version Control System) yang digunakan untuk mencatat dan mengelola perubahan pada file atau proyek. Dengan Git, pengguna dapat melihat riwayat perubahan yang telah dilakukan. GitHub adalah platform berbasis web yang digunakan untuk menyimpan repository Git secara online serta memudahkan pengguna dalam mengelola dan mengembangkan proyek bersama.
 
    Prompt Engineering merupakan cara menyusun instruksi yang diberikan kepada AI agar menghasilkan jawaban sesuai kebutuhan.
@@ -50,7 +54,7 @@ Pengenalan Git dan GitHub. Git merupakan sistem pengelolaan versi (Version Contr
      - Pull Request (PR): Permintaan untuk menggabungkan perubahan dari satu branch ke branch lainnya.
    
    Praktik Workshop: Student Task Planner
-   Pada sesi praktik, peserta diperkenalkan dengan pembuatan aplikasi sederhana bernama Student Task Planner menggunakan bantuan platform AI.
+   Pada sesi praktik, saya atau peserta diperkenalkan dengan pembuatan aplikasi sederhana bernama Student Task Planner menggunakan bantuan platform AI.
    Tahapan praktik yang dilakukan meliputi:
    1.	Memilih platform AI untuk membantu proses pembuatan aplikasi.
    2.	Menyusun prompt untuk menghasilkan struktur dan kode awal aplikasi.
