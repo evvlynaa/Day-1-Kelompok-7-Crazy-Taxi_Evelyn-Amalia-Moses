@@ -55,7 +55,7 @@ Tahapan praktik yang dilakukan meliputi:
 5.	Melakukan perubahan pada proyek, kemudian menyimpan dan mengirim pembaruan ke GitHub.
 Melalui praktik ini, saya ataupun peserta dapat memahami penggunaan AI, Git, dan GitHub dalam proses pengembangan proyek sederhana.
 
-5. Rangkuman Pembelajaran dan Refleksi Personal
+Rangkuman Pembelajaran dan Refleksi Personal
 Poin Penting yang Dipelajari
 - Memahami sistem akademik, kurikulum, dan peluang kerja di bidang Teknik Multimedia dan Digital.
 - Mengetahui manfaat program MBKM dan MSIB dalam menambah pengalaman serta keterampilan mahasiswa.
